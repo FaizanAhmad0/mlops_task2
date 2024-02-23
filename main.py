@@ -13,3 +13,5 @@ class StudentsInMLOps:
 
     def getClassName(self):
         return "StudentsInMLOps"
+
+print("hello")
